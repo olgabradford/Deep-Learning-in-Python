@@ -31,3 +31,60 @@ Training Convolutional Neural Networks, Training CNNs, Using CNNs to make predic
 #### 04 Using Convolutional Neural Networks
 In this last chapter, we learn how to make neural networks work well in practice, using concepts like regularization, batch-normalization and transfer learning.
 The sequential module, sequential module  - init method, sequential module -forward() method, the problem of overfitting, validation set, detecting overfitting, regulatization techniques, L2 - regulatization, dropout, batch-normalization, transfer learning, Finetunning a CNN, torchvision module
+
+#### 99_Udacity_Deep_Learning_01_PyTorch_tensors.ipynb
+
+
+#### 99_Udacity_Deep_Learning_02_PyTorch_neuralnetworks.ipynb
+
+#### 99_Udacity_Deep_Learning_03_PyTorch_training_NN
+
+#### 99_Udacity_Deep_Learning_04_PyTorch_Fashion_MNIST
+
+#### 99_Udacity_Deep_Learning_05_PyTorch_inference_validation
+
+#### 99_Udacity_Deep_Learning_06_PyTorch_saving_loading_models
+
+#### 99_Udacity_Deep_Learning_07_PyTorch_loading_image_data
+
+#### 99_Udacity_Deep_Learning_08_PyTorch_transfer_learning
+Loading other models from library and using them for image classification
+
+#### 99_Udacity_Deep_Learning_09_PyTorch_RNN_LSTM_char
+text processing with RNN LSTM
+
+#### 99_Udacity_Deep_Learning_10_PyTorch_RNN_time_series_prediction_simple
+
+#### 99_Udacity_Deep_Learning_11_PyTorch_RNN_sentiment_prediction
+Predicting text reviews of movies and their negative or positive reviews
+
+#### 99_Udacity_Deep_Learning_12_PyTorch_in_production_Cpp
+Converting PyTorch models to use in C++ production environment
+
+#### 99_Udacity_Deep_Learning_13_PyTorch_CNN_MNIST_no_validation
+
+#### 99_Udacity_Deep_Learning_14_PyTorch_CNN_with_validation
+
+#### 99_Udacity_Deep_Learning_15_PyTorch_CNN_custom_filters
+applying filters to images for better image recognition
+
+#### 99_Udacity_Deep_Learning_16_PyTorch_CNN_conv_visualization
+
+#### 99_Udacity_Deep_Learning_17_PyTorch_CNN_maxpooling_padding
+
+#### 99_Udacity_Deep_Learning_18_PyTorch_CNN_CIFAR_classification
+
+#### 99_Udacity_Deep_Learning_19_PyTorch_CNN_classification_augmentation
+
+#### 99_Udacity_Deep_Learning_20_PyTorch_CNN_style_transfer_vgg19
+Reading 2 images, and applying style from image1 to image2
+
+#### 99_Udacity_Deep_Learning_21_Keras_cels_to_farenheit
+Simple prediction with tensorflow in keras convertion from celsius to farenheit using convertion data
+1 layer - producing linear function that is very similar to actual conversion.
+
+#### 99_Udacity_Deep_Learning_21_MNIST_fashion
+Fashion dataset - tshirts, shirts, skirts...etc
+
+
+
